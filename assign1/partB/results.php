@@ -1,9 +1,7 @@
 <html>
 	<head>
-	</head>
-	
-	<body>
-			
+	</head>	
+	<body>			
 		
 		<center>
 
