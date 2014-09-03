@@ -6,7 +6,6 @@
 			
 		
 		<center>
-			
 
 
 			<form action = "results.php" method="GET">
